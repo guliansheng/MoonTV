@@ -173,5 +173,12 @@
       "api": "http://zuidazy.me/api.php/provide/vod/",
       "name": "最大|点播"
     }
-  }
+  },
+  "custom_category": [
+    {
+      "name": "华语",
+      "type": "movie",
+      "query": "华语"
+    }
+  ]
 }
